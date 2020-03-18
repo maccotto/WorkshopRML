@@ -63,6 +63,6 @@ Para dicho fin siga las siguientes instrucciones
 
 Luego de instalar las herramientas podremos acceder al cmd shell desde windows
 
-![](images/01-install.GIF)
+![](Images/01-install.GIF)
 
 
