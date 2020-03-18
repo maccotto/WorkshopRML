@@ -175,4 +175,4 @@ En ambos casos estamos emulando 1000 insert en 10 conexiones concurrentes en don
 
 ## Próximo paso
 
-[Workshop Readtrace](./Lab RML Readtrace.md)
+[Workshop Readtrace](https://github.com/maccotto/WorkshopRML/blob/master/Lab%20RML%20Readtrace.md)
