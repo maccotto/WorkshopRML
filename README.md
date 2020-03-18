@@ -5,8 +5,8 @@
 
 #### <i>Triggerdb Consulting SRL</i> | www.triggerdb.com | https://blogs.triggerdb.com
 
-<p style="border-bottom: 1px solid lightgrey;"></p>
-<h2><img style="float: left; margin: 0px 15px 15px 0px;" raw=true"><b>     Acerca de este workshop</b></h2>
+##Acerca de este workshop
+
 Bienvenido/a a este Workshop armado por **Maximiliano Damian Accotto** Microsoft MVP en Data Platform y socio fundador de **Triggerdb Consulting SRL**
 
 El objetivo de este workshop es que pueda aprender a usar las distintas herramientas RML las cuales son de gran ayuda para hacer trabajos como
