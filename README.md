@@ -32,7 +32,7 @@ En este workshop veremos los siguientes temas
 
   <tr><td style="background-color: AliceBlue; color: black;"><b>Module</b></td><td style="background-color: AliceBlue; color: black;"><b>Topics</b></td></tr>
 
-  <tr><td ><a href="./sql2019workshop/01_Introduction.md" target="_blank">01 - Introduction to SQL Server 2019</a></td><td> Learn how SQL Server 2019 solves challenges for the modern data professional</td></tr>
+  <tr><td ><a href="./Lab RML Ostress.md" target="_blank">01 - Ostress</a></td><td> Learn how SQL Server 2019 solves challenges for the modern data professional</td></tr>
   <tr><td><a href="./sql2019workshop/02_IntelligentPerformance.md" target="_blank">02 - Intelligent Performance</a></td><td> Learn the how SQL Server can boost your performance with no application changes</td></tr>
   <tr><td><a href="./sql2019workshop/03_Security.md" target="_blank">03 - Security</a> </td><td > Learn new security features of SQL Server 2019 such as Data Classification and Auditing</td></tr>
   <tr><td><a href="./sql2019workshop/04_Availability.md" target="_blank">04 - Availability</a></td><td> Learn new capabilities to make your SQL Server more available such as Accelerated Database Recovery</td></tr>
