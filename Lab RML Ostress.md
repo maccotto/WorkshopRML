@@ -1,5 +1,5 @@
 
-![](images/Triggerdblogo.png)
+![](Images/Triggerdblogo.png)
 
 # Lab: RML Ostress
 
