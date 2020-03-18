@@ -28,7 +28,7 @@ En este workshop veremos los siguientes temas
 | [Ostress](./Lab RML Ostress.md)     | Usando Ostress para emular cargas de trabajo    |
 | [Readtrace](./Lab RML Readtrace.md) | Analizando trc o Extended Events de performance |
 
-[Readtrace](./Lab RML Readtrace.md) 
+[Readtrace](/Lab RML Readtrace.md) 
 
 ## 1. Introducción
 
