@@ -1,5 +1,5 @@
 
-![](Images/triggerdblogo.png)
+![](Images/Triggerdblogo.png)
 
 # Lab: Herramientas SQL Server RML
 
