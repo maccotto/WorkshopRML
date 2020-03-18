@@ -68,9 +68,9 @@ select * from Sales.Customer
 
 Para ello lo primero que haremos es iniciar la consola de windows shell RML
 
-![](./Ostress/images/01-shell.png)
+![](./Ostress/Images/01-shell.png)
 
-![](./Ostress/images/02-shell2.png)
+![](./Ostress/Images/02-shell2.png)
 
 
 
@@ -84,7 +84,7 @@ Aquí solamente le indicamos que no deseamos ver los resultados de la consulta y
 
 Al ejecutar Ostress observaremos un resultado en nuestra consola como el siguiente:
 
-![](./Ostress/images/ostress-01.png)
+![](./Ostress/Images/ostress-01.png)
 
 Los datos mas importantes para una carga de trabajo suelen ser los tiempos totales de proceso y si hubo o no esperas.
 
@@ -114,7 +114,7 @@ ostress -d"Adventureworks2017" -Q"Select * from sales.customer" -q -n20 -r25
 
 Aquí le estamos indicando que genere 20 conexiones en paralelo de la misma consulta y lo repita por 25 veces .
 
-![](./Ostress/images/ostress-02.png)
+![](./Ostress/Images/ostress-02.png)
 
 Podemos observar que para 20 usuarios simultáneos esta carga nos ha demorado unos 13 segundos.
 
@@ -126,7 +126,7 @@ ostress -d"Adventureworks2017" -Q"Select CustomerID from sales.customer" -q -n20
 
 
 
-![](./Ostress/images/ostress-03.png)
+![](./Ostress/Images/ostress-03.png)
 
 Aquí podemos observar que para los 20 usuarios concurrentes la operación solo ha demorado 1 segundo.
 
@@ -167,7 +167,7 @@ ostress -dDemoostress -i"d:\Demoostress\03-DemoOstress-insert2.sql" -n10 -r1000 
 
 En ambos casos estamos emulando 1000 insert en 10 conexiones concurrentes en donde luego podremos observar sus resultados.
 
-![](./Ostress/images/ostress-04.png)
+![](./Ostress/Images/ostress-04.png)
 
 
 
