@@ -5,7 +5,7 @@
 
 #### <i>Triggerdb Consulting SRL</i> | www.triggerdb.com | https://blogs.triggerdb.com
 
-##Acerca de este workshop
+## Acerca de este workshop
 
 Bienvenido/a a este Workshop armado por **Maximiliano Damian Accotto** Microsoft MVP en Data Platform y socio fundador de **Triggerdb Consulting SRL**
 
