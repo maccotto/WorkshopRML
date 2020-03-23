@@ -5,8 +5,7 @@
 
 #### <i>Triggerdb Consulting SRL</i> | www.triggerdb.com | https://blogs.triggerdb.com
 
-<p style="border-bottom: 1px solid lightgrey;"></p>
-<h2><img style="float: left; margin: 0px 15px 15px 0px;" raw=true"><b>     Acerca de este workshop</b></h2>
+## Acerca de este workshop
 Bienvenido/a a este Workshop armado por **Maximiliano Damian Accotto** Microsoft MVP en Data Platform y socio fundador de **Triggerdb Consulting SRL**
 
 El objetivo de este workshop es que pueda aprender a usar la herramienta RML Ostress para poder realizar cargas de trabajo en una instancia MSSQL.
@@ -30,33 +29,33 @@ Imaginemos que tenemos un proceso al cual nos solicitan analizar si nuestro serv
 
 Estos son los distintos parámetros que podemos usar en la herramienta desde la linea de comando.
 
-  -S name of Microsoft SQL Server server to connect to
-  -D ODBC data source name to use for connection
-  -E use Windows auhentication to connect (default)
-  -U login ID
-  -P password
-  -d database name
-  -Q"single batch query to process"
-  -i SQL/RML file name or file wildcard to process
-  -n number of connections processing each input file/query - stress mode
-  -r number of iterations for each connection to execute its input file/query
-  -o output directory to write query results and log file
-  -l login timeout (sec)
-  -L integer value representing the language id
-  -t query timeout (sec)
-  -p network packet size for connections - SQL Server only
-  -q quiet mode; suppress all query output
-  -v verbose mode; show additional diagnostic output
-  -m [stress | replay] run in stress or replay mode
-  -a default password to use for SQL authentication during replay
-  -c control file name - required for replay mode
-  -T enable trace flag
-  -fx write query results as XML
-  -N disable "OSTRESS exiting" message
-  -M Advanced setting: max threads allowed, 0 is default setting.
-  -b Stop processing if an error is encountered during query execution.
-
-
+| Parámetro                                | Descripción                                     |
+| ----------------------------------- | ----------------------------------------------- |
+|  -S |name of Microsoft SQL Server server to connect to|
+|  -D |ODBC data source name to use for connection|
+|  -E |use Windows auhentication to connect (default)|
+|  -U |login ID |
+|  -P |password |
+|  -d |database name |
+|  -Q |"single batch query to process" |
+|  -i |SQL/RML file name or file wildcard to process |
+|  -n |number of connections processing each input file/query - stress mode |
+|  -r |number of iterations for each connection to execute its input file/query |
+|  -o | output directory to write query results and log file |
+|  -l | login timeout (sec) |
+|  -L | integer value representing the language id |
+|  -t |query timeout (sec)|
+|  -p |network packet size for connections - SQL Server only|
+|  -q |quiet mode; suppress all query output|
+|  -v |verbose mode; show additional diagnostic output|
+|  -m |[stress | replay] run in stress or replay mode|
+|  -a |default password to use for SQL authentication during replay|
+|  -c |control file name - required for replay mode|
+|  -T |enable trace flag|
+|  -fx|write query results as XML|
+|  -N |disable "OSTRESS exiting" message|
+|  -M |Advanced setting: max threads allowed, 0 is default setting.|
+|  -b |Stop processing if an error is encountered during query execution.|
 
 ## 4. Ejercicio 1 - Primer test simple
 
