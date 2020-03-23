@@ -25,7 +25,7 @@ En este workshop veremos los siguientes temas
 | ----------------------------------- | ----------------------------------------------- |
 | [Introducción] (#1. Introducción)   |                                                 |
 | [Instalación] (#2. Instalación)     | Instalar las herramientas                       |
-| [Ostress] (./Lab RML Ostress.md)    | Usando Ostress para emular cargas de trabajo    |
+| [Ostress](./Lab%20RML%20Ostress.md) | Usando Ostress para emular cargas de trabajo    |
 | [Readtrace] (./Lab RML Readtrace.md)| Analizando trc o Extended Events de performance |
 
 [I'm a relative reference to a repository file](./Lab%20RML%20Ostress.md)
