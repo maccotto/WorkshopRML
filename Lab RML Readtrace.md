@@ -39,21 +39,16 @@ Estos son los distintos parámetros que podemos usar en la herramienta desde la 
 |-i | If specified, indicates that the .TRC file(s) to process are present inside a CAB/ZIP/RAR file with this file name |
 |-o | Full path of directory to place output files [default is current directory] |
 |-S | Name of SQL Server 2005 server to connect to when loading performance analysis data |
-|-d | Database to use when loading performance data [default is PerfAnalysis].
-      User specified below must have CREATE DATABASE permission (if DB doesn'texist) 
-      or be part of the db_owner role if thedatabase already exists. |
-|-E | Connect to SQL using Windows Authentication [default]|
+|-d | Database to use when loading performance data [default is PerfAnalysis].|
+|-E | Connect to SQL using Windows Authentication [default] |
 |-U | Connect to SQL using this user name|
 |-P | Password for the user specified in -U option|
 |-a | Disable performance analysis|
 |-f | Do not produce .RML output files for each Session and Request|
 |-Q | Do normalization parse using quoted_identifier OFF symantics.  (Default is ON)|
-|-r#| Read at most this # of files (including the first) [default is all files
-  ​    until a break in the rollover file sequence is detected].|
-|-M | Mirror trace events by Session to the specified output directory (All Sessions
-​      will be output even if Session filter is specified)|
-|-MF | Mirror trace events by Session to the specified output directory (Only Sessions
-       matching filter parameters will be output)|
+|-r#| Read at most this # of files (including the first) |
+|-M | Mirror trace events by Session to the specified output directory|
+|-MF | Mirror trace events by Session to the specified output directory |
 |-MS |Mirror trace events to a single .TRC file in the specified output directory.|
 |-M[FS] or -M[SF]| Combine mirror filtering with single .TRC file output|
 
