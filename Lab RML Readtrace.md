@@ -1,5 +1,5 @@
 
-![](Images/triggerdblogo.png)
+![](Images/Triggerdblogo.png)
 
 # Lab: RML Readtrace
 
