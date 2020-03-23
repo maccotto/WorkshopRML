@@ -33,7 +33,7 @@ Readtrace permite importar los datos de un TRC o XEL para poderlos llevar a una 
 Estos son los distintos parámetros que podemos usar en la herramienta desde la linea de comando.
 
 
-| Tema                                | Descripción                                     |
+| Parámetro                               | Descripción                                     |
 | ----------------------------------- | ----------------------------------------------- |
 |-I | File name of the first .TRC or .XEL file to process [REQUIRED].|
 |-i | If specified, indicates that the .TRC file(s) to process are present inside a CAB/ZIP/RAR file with this file name |
