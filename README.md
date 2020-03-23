@@ -24,12 +24,12 @@ En este workshop veremos los siguientes temas
 | Tema                                | Descripción                                     |
 | ----------------------------------- | ----------------------------------------------- |
 | [Introducción](#introducción)   |                                                 |
-| [Instalación] (#2. Instalación)     | Instalar las herramientas                       |
+| [Instalación](#instalación)     | Instalar las herramientas                       |
 | [Ostress](./Lab%20RML%20Ostress.md) | Usando Ostress para emular cargas de trabajo    |
 | [Readtrace](./Lab%20RML%20Readtrace.md)| Analizando trc o Extended Events de performance |
 
 
-##Introducción
+## Introducción
 
 Las RML son herramientas de linea de comando que ya tienen unos cuantos años de estar disponibles.
 
@@ -43,7 +43,7 @@ Dentro de las utilidades se encuentran
 | Reporter  | Permite visualizar los datos de Readtrace   |
 | Ostress   | Permite realizar cargas de trabajo (stress) |
 
-## 2. Instalación
+## Instalación
 
 Como primer paso lo que debemos hacer es instalar las herramientas en nuestro equipo (no es necesario hacerlo sobre los servidores de MSSQL).
 
