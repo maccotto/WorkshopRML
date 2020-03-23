@@ -37,8 +37,8 @@ Estos son los distintos parámetros que podemos usar en la herramienta desde la 
 | ----------------------------------- | ----------------------------------------------- |
 |-I | File name of the first .TRC or .XEL file to process [REQUIRED].|
 |-i | If specified, indicates that the .TRC file(s) to process are present inside a CAB/ZIP/RAR file with this file  
-     name|
-|-o | Full path of directory to place output files [default is current directory]|
+     name |
+|-o | Full path of directory to place output files [default is current directory] |
 |-S | Name of SQL Server 2005 server to connect to when loading performance analysis data |
 |-d | Database to use when loading performance data [default is PerfAnalysis].
 ​      User specified below must have CREATE DATABASE permission (if DB doesn't
