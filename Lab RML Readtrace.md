@@ -79,13 +79,13 @@ Si desea usted crear un script mas personalizado entonces siga estos pasos
 1. Inicie el profiler
 2. Seleccione en el menú File --> New Trace y acceda al servidor
 
-![](./Readtrace/Images/profiler.png)
+![](./Readtrace/Images/Profiler.png)
 
 3. Seleccione luego el Template **Tunning**
 
    
 
-![Reads](./Readtrace/Images/profiler2.png)
+![Reads](./Readtrace/Images/Profiler2.png)
 
 4. Seleccione las siguientes columnas como mínimo:
 
@@ -97,7 +97,7 @@ Si desea usted crear un script mas personalizado entonces siga estos pasos
 
    ApplicationName
 
-   ![Reads](./Readtrace/Images/profiler3.png)
+   ![Reads](./Readtrace/Images/Profiler3.png)
 
    
 
@@ -111,13 +111,13 @@ readtrace -I"E:\Rml\Readtrace\TrazaDemo.trc" -dDemoReadtrace
 
 Aquí usaremos un .TRC que lo procesara Readtrace y lo alojara en la base de datos "DemoReadtrace"
 
-![Reads](./readtrace/Images/Readtrace-01.png)
+![Reads](./Readtrace/Images/readtrace-01.png)
 
 La misma herramienta luego de procesar la traza ejecutara reporter para poder analizar los resultados.
 
-![Reads](./readtrace/Images/Readtrace-02.png)
+![Reads](./Readtrace/Images/readtrace-02.png)
 
-![Reads](./readtrace/Images/Readtrace-03.png)
+![Reads](./Readtrace/Images/readtrace-03.png)
 
 
 
@@ -136,8 +136,8 @@ C:\Program Files\Microsoft Corporation\RMLUtils>Reporter.exe
 
 Luego de iniciar la herramienta, seleccione la base de datos en la cual ha procesado el ReadTrace
 
-![Reads](./readtrace/Images/Readtrace-04.png)
+![Reads](./Readtrace/Images/readtrace-04.png)
 
 Haga clic luego sobre el botón **"OK"** para así poder acceder al reporte
 
-![Reads](./readtrace/Images/Readtrace-02.png)
+![Reads](./Readtrace/Images/readtrace-02.png)
