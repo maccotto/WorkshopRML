@@ -40,7 +40,8 @@ Estos son los distintos parámetros que podemos usar en la herramienta desde la 
 |-o | Full path of directory to place output files [default is current directory] |
 |-S | Name of SQL Server 2005 server to connect to when loading performance analysis data |
 |-d | Database to use when loading performance data [default is PerfAnalysis].
-      User specified below must have CREATE DATABASE permission (if DB doesn'texist) or be part of the db_owner role if the   database already exists.|
+      User specified below must have CREATE DATABASE permission (if DB doesn'texist) 
+      or be part of the db_owner role if thedatabase already exists. |
 |-E | Connect to SQL using Windows Authentication [default]|
 |-U | Connect to SQL using this user name|
 |-P | Password for the user specified in -U option|
